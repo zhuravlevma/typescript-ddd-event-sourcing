@@ -1,4 +1,4 @@
-# Event Sourcing DDD Architecture
+# Event Sourcing with Domain Model DDD Architecture
 
 ## Description
 
