@@ -1,4 +1,4 @@
-import { BankAccountEntity } from '../entities/bank_account.entity';
+import { BankAccountEntity } from '../entities/bank-account.entity';
 import { AddCardInPort, AddCardParams } from '../ports/in/add-card.in-port';
 import { FindBankAccountOutPort } from '../ports/out/find-bank-account.out-port';
 import { SaveBankAccountOutPort } from '../ports/out/save-bank-account.out-port';

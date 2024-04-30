@@ -1,4 +1,4 @@
-import { BankAccountEntity } from '../../entities/bank_account.entity';
+import { BankAccountEntity } from '../../entities/bank-account.entity';
 
 export abstract class SaveBankAccountOutPort {
   abstract saveBankAccount(
